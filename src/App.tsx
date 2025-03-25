@@ -158,7 +158,6 @@ function App() {
           </div>
         </div>
       </div>
-      <a href="/secret-admin" style={{ display: 'none' }}>Hidden Admin Panel</a>
     </div>
   );
 }
